@@ -1,0 +1,119 @@
+body {
+    margin: 0;
+}
+
+.body {
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    padding: 20px;
+    margin: 0;
+    background-color: green;
+    border-radius: 15px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightgreen;
+}
+
+.header {
+    background-image: url("photo_2026-10-20_19-40-18.jpg");
+    background-size: cover;
+    background-position: center;
+    color: black;
+    padding: 100px;
+    margin: 0;
+    border-radius: 15px;
+}
+
+.p {
+    padding: 40px;
+    background-color: green;
+    border-radius: 15px;
+    margin: 0;
+}
+
+.q {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.main {
+    text-align: center;
+    color: black;
+    padding: 100px;
+    margin: 0;
+    background-color: white;
+    border-radius: 15px;
+    background-image: url("photo_2026-10-27_18-19-20.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.pp {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.h2 {
+    color: white;
+}
+
+.ppp {
+    padding: 40px;
+    background-color: green;
+    border-radius: 15px;
+    margin: 0;
+}
+
+.footer {
+    text-align: center;
+    color: black;
+    padding: 100px;
+    margin: 0;
+    background-color: white;
+    border-radius: 15px;
+    background-image: url("photo_2026-10-27_16-45-24.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.pppp {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.ppppp {
+    padding: 40px;
+    background-color: green;
+    border-radius: 15px;
+    margin: 0;
+}
